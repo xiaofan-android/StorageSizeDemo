@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Storagelibrary</string>
+    <string name="storage_size_content">总空间：%1$s | 剩余：%2$s</string>
+</resources>
